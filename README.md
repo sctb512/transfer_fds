@@ -2,15 +2,18 @@
 transfer fds with unix socket
 
 ## how to run?
+
 1. run server
 ```shell
 ./fserver
 ```
+
 2. run daemon
 ```shell
 ./daemon
 ```
 now you can send message to server.
+
 3. run client
 ```shell
 ./fclient
